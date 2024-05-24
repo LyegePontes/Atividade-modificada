@@ -1,0 +1,14 @@
+
+body {
+  margin: 10px; /* Adicionado uma margem ao corpo */
+  font-family: 'Arial', sans-serif; /* Alterado a fonte para Arial */
+  background-color: #f4f4f4b0; /* Adicionado uma cor de fundo cinza claro */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier New', monospace; /* Alterado a fonte para Courier New */
+  color: #006164; /* Adicionado uma cor de fonte verde escuro */
+  background-color: #f0f8ff; /* Adicionado uma cor de fundo azul claro */
+}
